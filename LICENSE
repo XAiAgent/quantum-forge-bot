@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The LICENSE file for any project gives credit to the creator/author of the 
 project, copyright information for the project, and the legal terms under 
 which it's being shared. In other words, this is us using an MIT license to
@@ -9,6 +10,11 @@ say "we wrote this and you can do whatever you want with it."
 MIT License
 
 Copyright (c) 2021, Glitch, Inc.
+=======
+MIT License
+
+Copyright (c) 2024 Xai Agent
+>>>>>>> dba18712fa1c2c228e63eabace1056e96a02b52c
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -27,6 +33,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
 
 
 
@@ -177,3 +184,5 @@ https://hanken.co/pages/web-fonts-eula
 ******************************************************************************
 END, HK Grotesk
 ******************************************************************************
+=======
+>>>>>>> dba18712fa1c2c228e63eabace1056e96a02b52c
